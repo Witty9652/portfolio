@@ -1,0 +1,13 @@
+.main{
+    position:absolute;
+}
+.headp1{
+    display:flex;
+}
+.headp1 ul{
+    display:flex;
+
+}
+.headp1 ul li{
+    margin-right:20px;
+}
